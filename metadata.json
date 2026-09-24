@@ -1,0 +1,10 @@
+{
+  "name": "Remix Roxy - Sassy AI Voice Companion",
+  "description": "A real-time voice-to-voice AI assistant with a young, confident, witty, and playfully flirty female persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

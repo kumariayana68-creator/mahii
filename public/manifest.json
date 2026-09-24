@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Mahii - AI Girlfriend & Loving Voice Companion",
+  "short_name": "Mahii AI",
+  "description": "Real-time 3D voice-to-voice AI girlfriend with a sweet, affectionate, caring, and playful persona.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#08080c",
+  "background_color": "#08080c",
+  "categories": ["entertainment", "lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
